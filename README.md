@@ -31,7 +31,7 @@ Explore all our projects [here](https://jsr.io/@arcstack).
 
 ## 📚 Documentation
 
-Each project within ArcStackLab comes with comprehensive documentation to help you get started. Visit the `docs` directory in each repository or check out our [documentation hub](https://ArcStackLab.github.io).
+Each project within ArcStackLab comes with comprehensive documentation to help you get started. Visit the `docs` directory in each repository or check out our [documentation hub](https://arcstacklab.github.io/ArcStackLab).
 
 ---
 
@@ -64,7 +64,7 @@ To make it easier to navigate our issues and pull requests, we use the following
 
 ## 📬 Contact Us
 
-Got questions or want to get involved? Reach out to us:
+Do you have questions or want to get involved? Reach out to us:
 
 - **Email**: arcstack@eteam.ng
 
