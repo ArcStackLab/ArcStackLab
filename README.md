@@ -1,4 +1,4 @@
-<img align="left" width="70" alt="ArcStackLab Logo" src="https://avatars.githubusercontent.com/u/177078216" />
+<img align="left" width="60" alt="ArcStackLab Logo" src="https://avatars.githubusercontent.com/u/177078216" />
 
 # ArcStackLab
 
