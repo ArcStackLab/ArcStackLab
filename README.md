@@ -40,12 +40,12 @@ Each project within ArcStackLab comes with comprehensive documentation to help y
 We welcome contributions from everyone! Whether you're a seasoned developer or just getting started, there are many ways you can help:
 
 1. **Fork** the repository.
-2. **Create** a new branch (`git checkout -b feature/your-feature).
+2. **Create** a new branch (`git checkout -b feature/your-feature`).
 3. **Commit** your changes (`git commit -m 'Add your feature'`).
 4. **Push** to the branch (`git push origin feature/your-feature`).
 5. **Open** a Pull Request.
 
-For more details, please read our [Contributing Guide](CONTRIBUTING.md).
+For more details, please read our [Contributing Guide](https://github.com/ArcStackLab/ArcStackLab/CONTRIBUTING.md).
 
 ---
 
@@ -72,7 +72,7 @@ Do you have questions or want to get involved? Reach out to us:
 
 ## 📜 License
 
-All our projects are open-source and available under the [MIT License](LICENSE).
+All our projects are open-source and available under the [MIT License](https://github.com/ArcStackLab/ArcStackLab/LICENSE).
 
 ---
 
