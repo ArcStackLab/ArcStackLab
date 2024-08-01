@@ -2,6 +2,8 @@
 
 # ArcStackLab
 
+[![pages-build-deployment](https://github.com/ArcStackLab/ArcStackLab/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/ArcStackLab/ArcStackLab/actions/workflows/pages/pages-build-deployment)
+
 <p align="center">
   <img alt="ArcStackLab Logo" src="https://avatars.githubusercontent.com/u/177078216" />
 </p>
